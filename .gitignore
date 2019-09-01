@@ -1,3 +1,5 @@
 .stack-work/
 compact-region-example.cabal
 *~
+
+/flintstones.compact
